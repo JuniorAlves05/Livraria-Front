@@ -1,0 +1,21 @@
+.mat-sidenav img {
+    height: 5rem;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.container {
+    height: 85%;
+    background-color: rgb(141, 141, 141);
+}
+
+.mat-sidenav {
+    background-color: #6495ED;
+}
+
+i {
+    padding-right: 0.6rem;
+    vertical-align: middle;
+}

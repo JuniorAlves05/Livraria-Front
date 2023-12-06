@@ -1,0 +1,20 @@
+.header img {
+    height: 4rem;
+}
+
+.header{
+    justify-content: center;
+    height: 11%;
+    background-color: rgb(98, 100, 100);
+}
+
+span{
+    display :flex;
+    align-items: center;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-family: 'Optima', sans-serif;  
+}
